@@ -16,4 +16,4 @@ request.setAttribute("theList", com.adianto.rudi.sandbox.Sandbox.longProcessSeve
 	 ${it}<br/>
 </c:forEach>
 
-<%@include file="embedded_03.jsp" %>
+<%@include file="embedded_02.jsp" %>
