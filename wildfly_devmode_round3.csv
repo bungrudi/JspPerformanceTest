@@ -1,0 +1,4 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+JSP page request,20000,392,178,992,1072,1205,2,4181,0.000%,164.59009,511.13,27.16
+Image request,10000,255,163,578,643,758,2,1112,0.000%,82.39472,6271.01,13.76
+TOTAL,30000,346,173,921,1030,1173,2,4181,0.000%,246.85872,6773.83,40.90
